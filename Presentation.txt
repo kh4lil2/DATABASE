@@ -1,0 +1,20 @@
+                                      PRESENTATION OF EACH RDBMS AND THEIR FUNCTIONALITIES
+
+what is an RDBMS: it is a database management system. (SGBD) is a system software used to store, manipulate or manage, and share data in a database, guaranteeing the quality, durability and confidentiality of information, while hiding the complexity of operations.
+Then we have different types of RDBMS which are:
+-MYSQL
+-ProstgreSQL
+-SQL Server
+
+  1. My SQL: is an SQL relational database server developed with high read performance in mind which means it is geared more towards servicing the data already in place rather than frequent and heavily updated. secured. It is multi-threaded and multi-user.
+
+  2. ProstgreSQL: is a powerful, open-source, object-oriented relational database management system that is capable of securely supporting the most complex data workloads.
+
+  3. SQL Server: is a tool that has all the characteristics to be able to support the user in the manipulation, control, sorting, updating, and many other actions, of database thanks to the SQL language .
+ 
+           II-COMPARE THE THREE RDBMS (MySQL, ProstgreSQL, SQL Server)
+
+SQLServer: it is a very powerful, robust DBMS with an ergonomic and easy to use interface, its data storage capacity is also important but a big problem with SQL Server is dedicated to companies using the Windows Operating System only
+while
+MySQL: it is the most popular in the world with its superior speed, reliability and ease of use, its strong point is that it is free and can be used even by beginners in the field.
+and ProstgreSQL: it is used because of its reliability, the integrity of its data, the robustness of its functionalities, and because it always provides efficient and innovative solutions. PostgreSQL runs on all major operating systems and has been ACID compliant since 2001
